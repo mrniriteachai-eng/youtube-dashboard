@@ -1,0 +1,8 @@
+YOUTUBE ANALYTICS REPORT
+========================
+
+Total Videos: 5
+Total Views: 1730
+Total Likes: 464
+Total Comments: 107
+Average Views: 346.0
